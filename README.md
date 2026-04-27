@@ -5,6 +5,19 @@ CiderPress is a fast, reliable, drag‑and‑drop converter for **HEIC/HEIF** im
 It uses **FFmpeg** for decoding, **ExifTool** for full metadata preservation, and includes a clean WIC fallback when FFmpeg isn’t available.
 
 Simple UI. Accurate results. No nonsense.
+
+CiderPress exists because Windows still doesn’t handle HEIC/HEIF gracefully.
+iPhones produce HEIC by default, but opening, previewing, or converting those
+files on a PC is often slow, inconsistent, or locked behind paid codecs and
+clunky web tools.
+
+This app is for anyone who needs a dependable, offline, privacy‑respecting way
+to convert HEIC photos — photographers, editors, archivists, IT staff, or
+everyday users who just want their pictures in a format everything supports.
+
+No ads, no telemetry, no installers, no surprises. Just a small, portable tool
+that does the job properly.
+
 <img width="901" height="424" alt="screenshot01" src="https://github.com/user-attachments/assets/bd646934-1718-4558-b1cf-074dd1af9f00" />
 
 ---
@@ -84,6 +97,24 @@ Portability benefits include:
 This makes CiderPress ideal for portable toolkits, restricted environments,
 temporary workstations, and privacy‑focused users. Everything stays in its own
 folder, and it runs anywhere.
+
+---
+
+## 🔒 Privacy‑Focused
+
+CiderPress is built with a strict privacy‑first design. The app never sends data
+anywhere, never connects to the internet, and never collects analytics or usage
+information. All processing happens locally on your machine.
+
+• No telemetry  
+• No background network requests  
+• No cloud dependencies  
+• No hidden logs or data collection  
+• All settings stored locally in a simple INI file  
+• FFmpeg and ExifTool run entirely offline  
+
+Your images stay on your system, your metadata stays private, and nothing leaves
+your computer — ever.
 
 ---
 

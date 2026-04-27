@@ -1,0 +1,80 @@
+CiderPress – Custom Dual License
+Copyright (c) 2026 Superevil Enterprises
+All rights reserved.
+
+CiderPress is licensed under a dual-license model:
+
+----------------------------------------------------------------------
+PERSONAL USE LICENSE (FREE)
+----------------------------------------------------------------------
+You are free to use CiderPress at no cost for personal, non-commercial
+purposes. This includes:
+
+• Home use  
+• Hobby projects  
+• Personal photo management  
+• School or student use  
+• Non-profit individual use  
+
+Under the Personal Use License, you may:
+• Run the software  
+• Convert your own files  
+• Keep copies on your personal devices  
+
+You may NOT:
+• Sell, rent, or redistribute the software  
+• Use the software in a business, organization, or paid environment  
+• Bundle the software with any product or service  
+• Modify or reverse-engineer the software  
+
+----------------------------------------------------------------------
+COMMERCIAL USE LICENSE ($10 ONE-TIME)
+----------------------------------------------------------------------
+Any use of CiderPress in a business, organization, or revenue-generating
+context requires a Commercial License.
+
+Commercial use includes (but is not limited to):
+• Use by businesses, agencies, or organizations  
+• Use by employees as part of their job duties  
+• Use by photographers, real estate agents, insurance adjusters, etc.  
+• Use in any workflow that generates revenue  
+• Use on company-owned devices  
+
+A Commercial License is a one-time $10 payment and covers:
+• Use on all devices owned by the purchaser  
+• Use for business operations  
+• Use for client work  
+• Use in professional environments  
+
+Commercial licenses can be purchased at:
+https://ko-fi.com/superevil
+
+----------------------------------------------------------------------
+REDISTRIBUTION
+----------------------------------------------------------------------
+You may NOT redistribute, repackage, or host the software elsewhere
+without explicit written permission from the copyright holder.
+
+You may link to the official GitHub repository, but you may not upload
+copies of the executable, source code, or modified versions.
+
+----------------------------------------------------------------------
+MODIFICATION
+----------------------------------------------------------------------
+Modification, decompilation, reverse engineering, or creation of
+derivative works is prohibited unless explicit written permission is
+granted.
+
+----------------------------------------------------------------------
+WARRANTY
+----------------------------------------------------------------------
+This software is provided “as-is” without warranty of any kind, express
+or implied. The author is not liable for any damages arising from the
+use of this software.
+
+----------------------------------------------------------------------
+CONTACT
+----------------------------------------------------------------------
+For commercial licensing questions or redistribution requests, contact:
+Superevil Enterprises  
+https://ko-fi.com/superevil

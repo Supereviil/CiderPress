@@ -65,6 +65,28 @@ CiderPress automatically detects both tools.
 
 ---
 
+## 🧳 Portable by Design
+
+CiderPress is a fully portable Windows application — no installation, no registry
+entries, and no system modifications. Just extract the ZIP and run
+`CiderPress.exe`.
+
+Portability benefits include:
+
+• No installer required  
+• No admin rights needed  
+• No registry usage  
+• No files written outside the app folder  
+• Works from USB drives, network shares, or cloud folders  
+• Self‑contained settings (INI stored next to the EXE)  
+• FFmpeg and ExifTool auto‑detected when placed in the same folder  
+
+This makes CiderPress ideal for portable toolkits, restricted environments,
+temporary workstations, and privacy‑focused users. Everything stays in its own
+folder, and it runs anywhere.
+
+---
+
 ## 🚀 How to Use
 
 1. Launch CiderPress  

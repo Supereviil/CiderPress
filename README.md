@@ -1,4 +1,6 @@
-# CiderPress  
+# CiderPress 
+<img width="256" height="256" alt="CiderPress" src="https://github.com/user-attachments/assets/b3780a71-5151-474b-adab-5f270db34c70" />
+
 ### HEIC/HEIF → JPG/PNG Converter for Windows
 
 CiderPress is a fast, reliable, drag‑and‑drop converter for **HEIC/HEIF** images.  

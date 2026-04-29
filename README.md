@@ -6,8 +6,6 @@
 CiderPress is a fast, reliable, drag‑and‑drop converter for **HEIC/HEIF** images.  
 It uses **FFmpeg** for decoding, **ExifTool** for full metadata preservation, and includes a clean WIC fallback when FFmpeg isn’t available.
 
-Simple UI. Accurate results. No nonsense.
-
 CiderPress exists because Windows still doesn’t handle HEIC/HEIF gracefully.
 iPhones produce HEIC by default, but opening, previewing, or converting those
 files on a PC is often slow, inconsistent, or locked behind paid codecs and
